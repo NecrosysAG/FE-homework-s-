@@ -1,0 +1,18 @@
+
+.about{
+    border: 2px solid black;
+    height: 1100px;
+    width: 300px;
+}
+
+body{
+    background-image: url(redpanda4.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 500px;
+    background-attachment: fixed;
+}
+
+p {
+    box-shadow: 10px 10px 5px grey;
+}
